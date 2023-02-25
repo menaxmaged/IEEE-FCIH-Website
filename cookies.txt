@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ieeefcih.com	TRUE	/	FALSE	1999999999	csrftoken	WqGAUvi5PjTZ9ezXzVsx6Trl05xCGoNR3kK723MJUCA8Kx7v0zGwcAmLnY8Ac0ns
+www.ieeefcih.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
