@@ -51,8 +51,7 @@ p,a,h1,h2,h3,h4 {
 }
 
 .section-team .single-person .person-image img {
-	width: 100%;
-    
+	
 
     border-radius: 50%;
 }
@@ -80,15 +79,18 @@ p,a,h1,h2,h3,h4 {
 }
 
 .section-team .single-person .person-info .full-name {
-	margin-bottom: 7px;
-	font-size: 35px;
+	margin-bottom: 10px;
+	font-size: 33px;
     font-weight: 700;
+  
 }
 
 .section-team .single-person .person-info .speciality {
     text-transform: uppercase;
-    font-size: 17px;
+    font-size: 20px;
+
     color: #1C75BC;
+  
 }
 
 .section-team .single-person:hover .full-name,
